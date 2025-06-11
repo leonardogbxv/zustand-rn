@@ -2,17 +2,14 @@
 
 This is a simple project created to test and explore the usage of [Zustand](https://github.com/pmndrs/zustand) in a React Native environment.
 
-## 📱 About
+## About
 
-A small experimental React Native app using Zustand for state management.  
-Useful as a minimal setup or reference for integrating Zustand in mobile projects.
-
-## 🚀 Tech Stack
+A small experimental React Native app using Zustand for state management.
 
 - [React Native](https://reactnative.dev/)
 - [Zustand](https://github.com/pmndrs/zustand)
 
-## 🛠️ Setup
+## Setup
 
 1. Clone the repository:
 
