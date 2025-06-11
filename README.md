@@ -14,8 +14,8 @@ A small experimental React Native app using Zustand for state management.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/leonardogbxv/zustand-rn.git
+cd zustand-rn
 ```
 
 2. Install dependencies:
